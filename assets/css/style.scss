@@ -23,20 +23,11 @@
   flex-shrink: 0;
 }
 
-.resume-photo-placeholder {
-  width: 100px;
-  height: 130px;
-  background: #e8e8e8;
-  border: 1px solid #ccc;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.75rem;
-  color: #999;
-}
-
-.resume-photo-placeholder::after {
-  content: "照片";
+.resume-photo {
+  width: 110px;
+  height: 145px;
+  object-fit: cover;
+  border: 1px solid #ddd;
 }
 
 .resume-title-cell {
@@ -185,8 +176,8 @@
     font-size: 1.7rem;
   }
 
-  .resume-photo-placeholder {
+  .resume-photo {
     width: 70px;
-    height: 90px;
+    height: 92px;
   }
 }
