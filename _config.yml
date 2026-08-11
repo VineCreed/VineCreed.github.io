@@ -1,0 +1,35 @@
+title: 汪百川律师
+email: 13738064227@163.com
+description: >-
+  北京观韬（杭州）律师事务所，专长刑事辩护。
+  公众号时事法律评论作者。
+baseurl: ""
+url: "https://vinecreed.github.io"
+github_username: VineCreed
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Minima settings
+minima:
+  date_format: "%Y-%m-%d"
+  social_links:
+    - { platform: github, user_url: "https://github.com/VineCreed" }
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      author: "汪百川"
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: "汪百川"
+
+# Permalink
+permalink: /articles/:title/
