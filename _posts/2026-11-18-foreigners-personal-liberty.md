@@ -3,8 +3,8 @@ layout: post
 title: "外国人在中国大陆可能面临的人身自由限制（Restrictions on Personal Liberty for Foreigners in Mainland China）"
 date: 2026-11-18
 categories: 涉外法律服务
-tags: [外国人, 人身自由, 强制措施, 拘留审查, 海关, 领事保护, 刑事辩护]
-description: "外国人在中国大陆可能面临的人身自由限制：刑事强制措施、治安处罚、出入境拘留审查、海关边检等情形及法律依据、应对方案（中英双语）。"
+tags: [外国人, 人身自由, 强制措施, 拘留审查, 海关, 领事保护, 刑事辩护, foreigners in China, personal liberty, detention, arrest, immigration, deportation, consular protection, criminal defense]
+description: "外国人在中国大陆可能面临的人身自由限制：刑事强制措施、治安处罚、出入境拘留审查、海关边检等14种情形及法律依据。Restrictions on personal liberty for foreigners in mainland China — criminal compulsory measures, administrative & immigration detention, customs secondary inspection, and what to do."
 permalink: /articles/foreigners-personal-liberty/
 ---
 
