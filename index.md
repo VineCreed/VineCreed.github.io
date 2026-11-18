@@ -13,6 +13,10 @@ title: 汪百川律师
 
 ---
 
+## 涉外法律服务
+
+- [外国人在中国大陆可能面临的人身自由限制（Restrictions on Personal Liberty for Foreigners in Mainland China）→](/articles/foreigners-personal-liberty/)
+
 ## 联系方式
 
 **电话/微信：** 13738064227（微信同号）
